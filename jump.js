@@ -10,3 +10,5 @@ function ball(x, y){
     pencil.arc(x, y, 10, 0, Math.PI * 2);
     pencil.fill();
 }
+
+ball(10, 20);
