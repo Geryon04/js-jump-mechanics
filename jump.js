@@ -11,4 +11,4 @@ function ball(x, y){
     pencil.fill();
 }
 
-ball(10, 20);
+ball(20, 20);
